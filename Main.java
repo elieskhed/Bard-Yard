@@ -1,0 +1,13 @@
+package com.play.tests;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Fenetre fen = new Fenetre();
+		System.out.println("height:"+Fenetre.HEIGHT);
+		System.out.println("width"+Fenetre.WIDTH);
+	}
+
+}
